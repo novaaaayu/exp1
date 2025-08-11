@@ -1,5 +1,5 @@
 public static void main(String args[]){
 for(int i=0;i<5;i++){
-System.out.println("Ayush is a good boy");
+System.out.println("Ayush is a very good boy");
 }
 }
